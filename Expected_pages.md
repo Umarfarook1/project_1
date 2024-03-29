@@ -10,6 +10,5 @@
 6. [Review Page](#review-page)
 7. [Contact Form](#contact-form)
 8. [User Profile](#user-profile)
-9. [User Dashboard](#user-dashboard)
-10. [Terms of Service and Privacy Policy](#terms-of-service-and-privacy-policy)
+9. [Terms of Service and Privacy Policy](#terms-of-service-and-privacy-policy)
 
